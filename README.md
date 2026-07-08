@@ -110,11 +110,3 @@ The server will start on `http://localhost:4000` (or whichever `PORT` you set).
 - Passwords are hashed with `bcrypt` before being saved to the database (via a Mongoose `pre("save")` hook).
 - This is a learning/practice project, so authentication is intentionally simple — there's no session or JWT-based token handling yet. That would be a natural next step.
 
-## Possible Next Steps
-
-- Add JWT-based authentication and protected routes
-- Add input validation (e.g. with `zod` or `joi`)
-- Link posts to the user who created them
-- Add pagination to `getPosts`
-- Write tests
-
