@@ -1,6 +1,6 @@
 This project is an intro to backend *PostFlow API*
 
-A simple backend REST API built with **Node.js**, **Express**, and **MongoDB (Mongoose)**. This project was built as an introductory backend exercise, covering core concepts like routing, controllers, models, environment configuration, and password hashing.
+PostFlow API is a **Node.js/Express** backend demonstrating RESTful API design with **MongoDB** and **Mongoose**. It handles user authentication (registration, login, logout) and post management (**create, read, update, delete**), with a clean separation of concerns across **routes, controllers, and data models**, and secure password hashing via bcrypt.
 
 It implements two resources:
 - **Users** — registration, login, and logout with hashed passwords
