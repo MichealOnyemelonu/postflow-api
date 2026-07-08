@@ -1,4 +1,4 @@
-This project is an intro to backend# PostFlow API
+This project is an intro to backend *PostFlow API*
 
 A simple backend REST API built with **Node.js**, **Express**, and **MongoDB (Mongoose)**. This project was built as an introductory backend exercise, covering core concepts like routing, controllers, models, environment configuration, and password hashing.
 
